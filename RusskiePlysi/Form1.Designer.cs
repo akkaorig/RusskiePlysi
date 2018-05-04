@@ -48,7 +48,7 @@
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(651, 438);
             this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "#подключить <студия>\n#подключить <системная>\n\nфсз тело() {\n     вывести(\"привет м" +
+            this.richTextBox1.Text = "#подключить <студия>\n#подключить <системная>\n\nфвз тело() {\n     вывести(\"привет м" +
     "ир!\");\n     подождать;\n     выйти;\n}";
             // 
             // Form1
